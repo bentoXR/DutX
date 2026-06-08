@@ -2,6 +2,7 @@ Diciplina: Projeto de Interface Web
 Professor: Thiago Guimaraes
 Alunos: Bento Xavier e Felipe Dutra
 Descrição do projeto: O projeto se trata de um app de controle de tarefas. Ele conta com uma funçao de ofenciva parecida com a do duolingo.
+Para executar o app é necessario que você baixe o arquivo e siga as instruções do readme da pasta.
 
 Projeto baixa fidelidade:
 <img width="1850" height="854" alt="image" src="https://github.com/user-attachments/assets/7ed88216-d83d-4c15-996e-9ffd64545ea7" />
